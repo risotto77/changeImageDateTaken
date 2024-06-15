@@ -5,7 +5,7 @@
 This Python script use the image file name to update `Date taken` metadata property.
 ### Usage 
 -  `pip install pillow`
--  `python change_image_date_taken.py [--directory] [--recursive] [--dry-run]`  
+-  `python change_date_taken.py [--directory] [--recursive] [--dry-run]`  
 Arguments:  
  - --directory (default: current directory)  
  - --recursive (false or true; default false)  
