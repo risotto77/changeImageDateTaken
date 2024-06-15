@@ -1,4 +1,4 @@
-Python script to change date taken metadata from the name of the file.  
+Python script to change date taken metadata using the name of the file.  
 Use arguments:  
   --directory (default: current directory)  
   --recursive (0 or 1; default 0)  
