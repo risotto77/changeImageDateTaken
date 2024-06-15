@@ -2,7 +2,7 @@
 1.0.0
 
 ### Description
-This Python script updates the image file name to update `Date taken` metadata property.
+This Python script use the image file name to update `Date taken` metadata property.
 ### Usage 
 -  `pip install pillow`
 -  `python change_image_date_taken.py [--directory] [--recursive] [--dry-run]`  
